@@ -1,7 +1,7 @@
 ### Hi I am Aysanew Yonas 👋
 
 
-<a href="https://bit.ly/aysiA"><img src="https://api.daily.dev/devcards/3b80d6100fee41ce9a013061318849bc.png?r=9c7" width="400" alt="Aysanew Yonas's Dev Card"/></a>
+<a href="https://bit.ly/aysiA"><img src="#" width="400" alt="Aysanew Yonas's Dev Card"/></a>
 <!--
 **aysi143/aysi143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
