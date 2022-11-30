@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aysanew (IC)</h1>
 <h3 align="center">A passionate software developer and graphic designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aysi143&label=Profile%20views&color=0e75b6&style=flat" alt="aysi143" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aysi143&label=Profile%20views&color=0e75b6&style=flat" alt="aysi143" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aysi_143" target="blank"><img src="https://img.shields.io/twitter/follow/aysi_143?logo=twitter&style=for-the-badge" alt="aysi_143" /></a> </p>
+<p align="center"> <a href="https://twitter.com/aysi_143" target="blank"><img src="https://img.shields.io/twitter/follow/aysi_143?logo=twitter&style=for-the-badge" alt="aysi_143" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/aysi143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aysi143" height="30" width="40" /></a>
 <a href="https://dev.to/aysi143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aysi143" height="30" width="40" /></a>
 <a href="https://twitter.com/aysi_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aysi_143" height="30" width="40" /></a>
