@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aysanew (IC)</h1>
-<h3 align="center">Full-stack Software Engineer | Google Certified UI/UX designer
-✨✨
+<h3 align="center">✨ Full-stack Software Engineer | Google Certified UI/UX designer
+✨
 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aysi143&label=Profile%20views&color=0e75b6&style=flat" alt="aysi143" /> </p>
